@@ -1,0 +1,29 @@
+Character,Total Pulls,# pulled,percent of total pulls,estimated character revenue (in millions),Planet/Group,time in between first appearence in story and banner (days),Youtube Views,Importance to Main Story,Role,Type,Gender,Path,Element
+Seele,"29,140,065","274,015",5.733,$61.05,Belobog,0,"4,154,618",Major,Damage Dealer,Advance,Adult Female,Hunt,Quantum
+Jingyuan,"17,736,116","175,018",3.489,$37.16,Xianzhou,20,"4,463,719",Major,Damage Dealer,FUA,Adult Male,Erudition,Lightning
+Silverwolf,"17,696,242","212,917",3.481,$37.08,StelleronHunter,42,"6,925,172",Major,Amplifier,"Break, Debuff",Adult Female,Nihilty,Quantum
+Luocha,"14,674,610","155,099",2.887,$30.75,Xianzhou,63,"3,470,688",Minor,Sustain,SP-Friendly,Adult Male,Abundance,Imaginary
+Blade,"12,933,685","147,694",2.544,$27.10,StelleronHunter,83,"7,585,838",Major,Damage Dealer,SP-Friendly,Adult Male,Destruction,Wind
+Kafka,"19,445,419","221,753",3.825,$40.74,StelleronHunter,125,"10,858,796",Major,Specialist,DOT,Adult Female,Nihilty,Lightning
+ImbibitorLunae,"15,979,091","181,969",3.144,$33.48,Xianzhou,41,"2,852,931",Major,Damage Dealer,SP-Unfriendly,Adult Male,Destruction,Imaginary
+FuXuan,"19,665,467","219,550",3.869,$41.20,Xianzhou,147,"2,695,606",Medium,Sustain,Buff,Adult Female,Preservation,Quantum
+Jingliu,"21,244,258","248,978",4.179,$44.51,Xianzhou,41,"3,389,037",Minor,Damage Dealer,SP-Friendly,Adult Female,Destruction,Ice
+Topaz,"10,569,203","112,149",2.079,$22.14,IPC,16,"4,933,975",Medium,Specialist,"Debuff, FUA",Adult Female,Hunt,Fire
+Huohuo,"13,224,156","158,921",2.602,$27.71,Xianzhou,0,"3,551,774",Not in it,Sustain,"Buff, Energy",Child Female,Abundance,Wind
+Argenti,"9,758,632","93,287",1.920,$20.45,Knights of Beauty,21,"3,070,222",Minor,Damage Dealer,NA,Adult Male,Erudition,Physical
+Ruanmei,"23,848,177","297,417",4.692,$49.97,Genius Society,0,"1,237,184",Minor,Amplifier,"Break, Buff, Delay",Adult Female,Harmony,Ice
+DrRatio,"961,993","9,128",0.189,$2.02,Penacony,21,"3,202,058",Medium,Damage Dealer,"Debuff, FUA",Adult Male,Hunt,Imaginary
+BlackSwan,"22,174,999","254,502",4.362,$46.46,Penacony,0,"3,492,438",Major,Specialist,"Debuff, DOT",Adult Female,Nihilty,Wind
+Sparkle,"22,522,065","266,825",4.431,$47.19,Penacony,23,"19,358,583",Major,Amplifier,"Advance, Buff, SP-Friendly",Adult Female,Harmony,Quantum
+Acheron,"45,381,074","526,623",8.928,$95.08,GalaxyRanger,49,"4,583,018",Major,Damage Dealer,Debuff,Adult Female,Nihilty,Lightning
+Aventurine,"17,229,715","204,026",3.390,$36.10,IPC,71,"4,524,827",Major,Sustain,"Debuff, FUA, SP-Friendly",Adult Male,Preservation,Imaginary
+Robin,"17,875,788","203,532",3.517,$37.45,Penacony,91,"8,690,819",Major,Amplifier,"Advance, Buff, FUA",Adult Female,Harmony,Physical
+Boothill,"6,743,295","76,193",1.327,$14.13,GalaxyRanger,21,"3,657,159",Minor,Specialist,Break,Adult Male,Hunt,Physical
+Firefly,"29,815,036","350,789",5.866,$62.47,StelleronHunter,133,"2,970,810",Major,Specialist,"Advance, Break, SP-Unfriendly",Adult Female,Destruction,Fire
+Jade,"6,092,080","65,348",1.198,$12.76,IPC,63,"2,258,494",Medium,Specialist,"FUA, SP-Friendly",Adult Female,Erudition,Quantum
+Yunli,"5,626,540","61,797",1.107,$11.79,Xianzhou,0,"1,468,424",Medium,Damage Dealer,FUA,Child Female,Destruction,Physical
+Jiaoqiu,"6,068,400","75,088",1.194,$12.71,Xianzhou,21,"780,142",Medium,Amplifier,"Debuff, DOT",Adult Male,Nihilty,Fire
+Feixiao,"13,260,434","161,669",2.609,$27.78,Xianzhou,40,"1,677,984",Major,Damage Dealer,FUA,Adult Female,Hunt,Wind
+Lingsha,"4,535,279","53,262",0.892,$9.50,Xianzhou,63,"579,850",Minor,Sustain,"Break, Debuff, FUA",Adult Female,Abundance,Fire
+Rappa,"2,899,874","33,546",0.570,$6.08,GalaxyRanger,0,"3,249,901",Not in it,Specialist,"Advance, Break, SP-Friendly",Adult Female,Erudition,Imaginary
+Reruns,"81,209,986","854,299",15.976,$170.15,NA,NA,NA,NA,NA,NA,NA,NA,NA
